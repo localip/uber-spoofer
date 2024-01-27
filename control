@@ -1,0 +1,9 @@
+Package: me.eternal.uberspoofer
+Name: uber-spoofer
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Stop Uber Eats from device fingerprinting
+Maintainer: eternal
+Author: eternal
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
